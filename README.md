@@ -4,8 +4,3 @@
 ### Although i do highly recommand downloading my downloader (lol) and giving it a shot as if it works it does give you full quality non corrupted mp3/mp4 files for 'free'. and we all love free...
 
 # [Download Here](https://drive.google.com/drive/folders/1sWzBJsDYeGc7fUEHlmvBTf66_v1ZMhMo?usp=sharing)
-
-## Preview:
-
-[preview1]()
-[preview2]()
