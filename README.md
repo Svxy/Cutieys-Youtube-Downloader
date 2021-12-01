@@ -5,7 +5,7 @@
 
 # How to download:
 
-### Ofc first off scroll down and click the download button, which will bring you to google drive (bc the folders too big to upload to github), right click the folder and select download. After that extract the zip to your desktop and deslete the zip. Then read the "ReadBeforeUsingConfig" txt file.
+### Ofc right click the download button, which will bring you to google drive (bc the folders too big to upload to github), right click the folder and select download. After that extract the zip to your desktop and deslete the zip. Then read the "ReadBeforeUsingConfig" txt file.
 
 ## Enjoy!!
 
