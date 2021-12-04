@@ -7,6 +7,9 @@
 
 ### Ofc right click the download button, which will bring you to google drive (bc the folders too big to upload to github), right click the folder and select download. After that extract the zip to your desktop and deslete the zip. Then read the "ReadBeforeUsingConfig" txt file.
 
+### note:
+if google drive doesnt add the Config.exe to the zip you can always just right click it and manually download.
+
 ## Enjoy!!
 
 # [Download Here](https://drive.google.com/drive/folders/1sWzBJsDYeGc7fUEHlmvBTf66_v1ZMhMo?usp=sharing)
